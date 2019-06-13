@@ -1,6 +1,6 @@
 # Proyecto_CRUD_PHP
 
-Proyecto CRUD con PHP, Bootstrap, y MySQL 
+Proyecto CRUD con PHP, Bootstrap, y MySQL (XAMPP)
 
 Prpósito del sistema.
 
