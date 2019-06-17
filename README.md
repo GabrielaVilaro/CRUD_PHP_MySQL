@@ -34,4 +34,6 @@ Los módulos que componen la interfáz del programa son:
 
 			Nombre del archivo principal: edit.php
       
-Nombre del archivo principal: index.php
+		Nombre del archivo principal: index.php
+
+<a href="https://ibb.co/0nHQ9Sj"><img src="https://i.ibb.co/RgR76mp/2019-06-12.png" alt="2019-06-12" border="0"></a>
